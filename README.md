@@ -1,2 +1,2 @@
-# temp-one
-design-one
+# template1
+using html & css
